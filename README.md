@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey, I'm Ryan. I focus on writing persuasive, impactful copy 
 
-<!--
-**ryanwillis-finnerty/ryanwillis-finnerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Digital copy
+- Case studies / explainers
+- Articles, blogs and essays
 
-Here are some ideas to get you started:
+ Open to copy opportunities particuarly for marketing agencies, E-Commerce brands and SaaS orgs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+LinkedIn: <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7a530078-dec2-4d7f-8085-a4e4990b104a" />
+Email: ryanfinnerty56@gmail.com
+
+⚡ Fun fact: I love paddleboarding
