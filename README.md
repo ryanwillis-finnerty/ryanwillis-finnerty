@@ -4,7 +4,7 @@ Hey, I'm Ryan. I focus on writing persuasive, impactful copy
 - Case studies / explainers
 - Articles, blogs and essays
 
- Open to copy opportunities particuarly for marketing agencies, E-Commerce brands and SaaS orgs  
+ Open to copy opportunities particuarly for marketing agencies, E-Commerce brands and SaaS organisations  
 
 
 LinkedIn:https://www.linkedin.com/in/ryan-finnerty-/
