@@ -1,13 +1,19 @@
-Hey, I'm Ryan. I focus on writing persuasive, impactful copy 
+# My Writing Portfolio
 
-- Digital copy
-- Case studies / explainers
-- Articles, blogs and essays
+Hi! I am Ryan, a writer specialising in finance copy.
 
- Open to copy opportunities particuarly for marketing agencies, E-Commerce brands and SaaS organisations  
+[https://www.linkedin.com/in/ryan-finnerty-/] 
+
+## Featured Work
+- **[Beyond CSR: Five Reasons Businesses Are Using Impact Investing to Fight Poverty in 2026]**:(https://businessfightspoverty.org/beyond-csr-five-reasons-businesses-are-using-impact-investing-to-fight-poverty-in-2026/)
+- **[The March Round Up]**:(https://www.linkedin.com/pulse/march-round-up-waterunite-viepe)
+  
+## Skills
++ B2B Content Strategy
++ Complex Information Synthesis
++ Investigative Research & Sourcing
 
 
-LinkedIn:https://www.linkedin.com/in/ryan-finnerty-/
-Email: ryanfinnerty56@gmail.com
-
-⚡ Fun fact: I love paddleboarding
+## Contact
+Email: [ryanfinnerty56@gmail.com]
+[https://www.linkedin.com/in/ryan-finnerty-/] 
