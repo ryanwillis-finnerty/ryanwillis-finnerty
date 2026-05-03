@@ -1,6 +1,6 @@
 # My Writing Portfolio
 
-Hi! I am Ryan, a writer specialising in finance copy.
+Hi! I am Ryan, a communications and content professional.
 
 [https://www.linkedin.com/in/ryan-finnerty-/] 
 
