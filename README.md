@@ -1,6 +1,6 @@
 # My Writing Portfolio
 
-Hi! I am Ryan, a communications and content professional.
+Hi! I am Ryan, a communications and written content professional.
 
 [https://www.linkedin.com/in/ryan-finnerty-/] 
 
@@ -9,6 +9,7 @@ Hi! I am Ryan, a communications and content professional.
 - **[Not Just ESG: Water as Material Financial Risk]**:(https://www.waterunite.org/blog/post/26417/not-just-esg-water-as-material-financial-risk/)
 - **[The March Round Up]**:(https://www.linkedin.com/pulse/march-round-up-waterunite-viepe)
 - **[Impact Investment Review: Water Unite Impact Completes Exit From Sanivation]**:(https://www.wellersimpact.com/post/impact-investment-review-water-unite-impact-completes-exit-from-sanivation)
+- **[Water Has a Financing Problem. AI Might Have Just Solved It]**:(https://www.waterunite.org/blog/post/26642/water-has-a-financing-problem-ai-might-have-just-solved-it/)
   
 ## Skills
 + B2B Content Strategy
