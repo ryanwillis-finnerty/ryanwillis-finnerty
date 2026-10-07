@@ -10,6 +10,8 @@ Hi! I am Ryan, a communications and written content professional.
 - **[The March Round Up]**:(https://www.linkedin.com/pulse/march-round-up-waterunite-viepe)
 - **[Impact Investment Review: Water Unite Impact Completes Exit From Sanivation]**:(https://www.wellersimpact.com/post/impact-investment-review-water-unite-impact-completes-exit-from-sanivation)
 - **[Water Has a Financing Problem. AI Might Have Just Solved It]**:(https://www.waterunite.org/blog/post/26642/water-has-a-financing-problem-ai-might-have-just-solved-it/)
+- **[Why Water is Central to the Planet]**:
+(https://www.waterunite.org/blog/post/27291/why-is-water-central-to-the-planet/)
   
 ## Skills
 + B2B Content Strategy
